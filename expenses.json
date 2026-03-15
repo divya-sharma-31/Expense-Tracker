@@ -1,0 +1,17 @@
+[
+  {
+    "description": "food",
+    "amount": 600.0,
+    "category": "food"
+  },
+  {
+    "description": "shopping",
+    "amount": 1000.0,
+    "category": "other"
+  },
+  {
+    "description": "public transport",
+    "amount": 900.0,
+    "category": "travel"
+  }
+]
